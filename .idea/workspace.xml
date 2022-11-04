@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="851ffb90-a9d8-4a5a-be8f-da134ca7deba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/react-kabzda-1/src/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-kabzda-1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-kabzda-1/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-1/src/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-kabzda-1/src/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-1/src/Technologies.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <updated>1667571429196</updated>
       <workItem from="1667571431398" duration="6000" />
       <workItem from="1667575285448" duration="605000" />
-      <workItem from="1667583193535" duration="3227000" />
+      <workItem from="1667583193535" duration="3321000" />
     </task>
     <servers />
   </component>
