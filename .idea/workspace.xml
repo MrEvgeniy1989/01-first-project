@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="851ffb90-a9d8-4a5a-be8f-da134ca7deba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-kabzda-1/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-1/src/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-kabzda-1/src/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-kabzda-1/src/Technologies.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/1projects/01-first-project/react-kabzda-1/src",
+    "last_opened_file_path": "D:/projects/my-app",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -58,6 +56,7 @@
       <workItem from="1667571431398" duration="6000" />
       <workItem from="1667575285448" duration="605000" />
       <workItem from="1667583193535" duration="3321000" />
+      <workItem from="1667590231261" duration="769000" />
     </task>
     <servers />
   </component>
